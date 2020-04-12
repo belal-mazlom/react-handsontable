@@ -1,5 +1,5 @@
 import React from 'react';
-import Handsontable from 'handsontable';
+import Handsontable from './handsontable';
 import { PortalManager } from './portalManager';
 import { HotTableProps, HotEditorElement } from './types';
 /**
